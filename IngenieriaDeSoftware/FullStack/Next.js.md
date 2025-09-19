@@ -11,4 +11,4 @@ Next.js ya tiene en su libreria un enrutador y muchas otras caracteristicas que 
 
 Ahora bien Next.js, se apoya en Node.js, para poder ofrecer un Back End completo y asi poder llamarse Full Stack.
 
-Como implementa codigo de Servidor se puede utilizar para comunicarse con bibliotecas como MYSQL, POSTGRESQL, MONGODB. O usar ORM DE NEXT.JS como PRISMA, SEQUELIZE, MONGOOSE.
+En Next.js gracias a que implementa codigo de Servidor, se puede utilizar para comunicarse con bibliotecas como MYSQL, POSTGRESQL, MONGODB. O usar ORM DE NEXT.JS como PRISMA, SEQUELIZE, MONGOOSE.
